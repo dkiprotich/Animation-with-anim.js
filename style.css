@@ -6,12 +6,11 @@
 
 #btns{
   padding:20px;
-  background:#f4f4f4;
+  background:rgb(221, 177, 177);
   margin-bottom:20px;
 }
 
 #btns button{
-  background:#fff;
   padding:5px 10px;
   border:0;
 }
@@ -21,11 +20,13 @@
 }
 
 #btns .fa-play-circle{
-  color:green;
+  color:rgb(128, 87, 0);
+ 
 }
 
 #btns .fa-pause-circle{
-  color:red;
+  color:rgb(47, 0, 255);
+  
 }
 
 .box{
